@@ -1,6 +1,6 @@
 body {
-  background:#004225;
-  font-family:courier new;
+  background:linear-gradient (black,white);
+  font-family:helvetica;
 }
 
 h1,h3,p,li,a,ul {

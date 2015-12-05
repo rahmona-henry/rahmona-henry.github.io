@@ -3,6 +3,6 @@ body {
   font-family:courier new;
 }
 
-h1,p,li {
+h1,h3,p,li,a,ul {
   color:white;
 }

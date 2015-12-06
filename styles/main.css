@@ -8,17 +8,23 @@ background: orange;
 color: white;
 padding: 15px;
 margin: 0;
-
-}
-nav h1 h2 h3 p li a {
-	color:white;
 }
 
 nav ul {
+dispaly:inline;
+}
+
+nav ul li {
 	display: inline;
 	color: white;
 	padding: 15px;
 }
+
+ a h1 h4 p {
+	color:white;
+}
+
+
 
 
 

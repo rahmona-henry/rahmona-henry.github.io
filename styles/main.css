@@ -1,10 +1,13 @@
+
+
 body {
-	background: 808080;
-	font-family: helvetica;
+  background: 808080;
+  font-family: Helvetica;
 }
 
-header { 
-color: F8F8FF;
+header {
+background: FFA500 ; 
+color: FFFFFF;
 padding: 15px;
 margin: 0;
 }
@@ -16,8 +19,8 @@ padding: 15px;
 
 nav ul li {
   display: inline;
-  
 }
+
 nav ul li h1 h4 p {
 	color:FFFFFF;
 }

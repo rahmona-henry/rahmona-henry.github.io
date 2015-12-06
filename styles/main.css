@@ -10,6 +10,9 @@ padding: 15px;
 margin: 0;
 
 }
+nav h1 h3 p li a ul  {
+	color:white;
+}
 
 nav ul li {
 	display: inline;
@@ -17,7 +20,5 @@ nav ul li {
 	padding: 15px;
 }
 
-nav h1 h3 p li a ul footer {
-	color:white;
-}
+
 

@@ -1,3 +1,4 @@
+
 html {
 background-color: grey;
 color: FFFFFF;
@@ -8,7 +9,7 @@ body {
 }
 
 header {
-background: FFA500 ; 
+background: orange; 
 padding: 15px;
 margin: 0;
 }
@@ -16,11 +17,12 @@ margin: 0;
 nav ul {
 display:inline;
 padding: 15px;
+color: white;
 }
 
 nav ul li {
   display: inline;
-  color: FFFFFF;
+  color: white;
 }
  a h1 h4 p {
 	color:FFFFFF;

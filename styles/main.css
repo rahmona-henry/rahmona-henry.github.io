@@ -1,5 +1,5 @@
 body {
-	background: white;
+	background: grey;
 	font-family: helvetica;
 }
 
@@ -11,7 +11,7 @@ margin: 0;
 }
 
 nav ul {
-dispaly:inline;
+display:inline;
 }
 
 nav ul li {
@@ -20,7 +20,7 @@ nav ul li {
 	padding: 15px;
 }
 
- a h1 h4 p {
+ nav ul li a h1 h4 p {
 	color:white;
 }
 

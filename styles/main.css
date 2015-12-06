@@ -8,13 +8,16 @@ background: orange;
 color: white;
 padding: 15px;
 margin: 0;
+
 }
 
 nav ul li {
 	display: inline;
+	color: white;
+	padding: 15px;
 }
 
-h1 h3 p li a ul footer {
+nav h1 h3 p li a ul footer {
 	color:white;
 }
 

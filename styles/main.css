@@ -3,6 +3,13 @@ body {
   font-family:helvetica;
 }
 
+header { 
+background: orange;
+color: white;
+padding: 15px;
+
+}
+
 h1,h3,p,li,a,ul {
   color:white;
 }

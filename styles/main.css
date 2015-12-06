@@ -11,9 +11,8 @@ margin: 0;
 }
 
 
-nav ul li {
+nav ul {
 display:inline;
-color: FFFFFF;
 padding: 15px;
 background:808080;
 }

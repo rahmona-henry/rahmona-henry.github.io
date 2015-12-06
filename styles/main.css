@@ -1,8 +1,6 @@
 html {
 background-color: grey;
-
 }
-
 
 body {
   font-family: Helvetica;
@@ -23,7 +21,7 @@ nav ul li {
   display: inline;
 }
 
-a h1 h4 p {
+nav ul li a h1 h4 p {
 	color:FFFFFF;
 }
 

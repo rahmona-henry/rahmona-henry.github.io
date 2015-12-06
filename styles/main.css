@@ -1,7 +1,10 @@
+html {
+background-color: grey;
+}
 
 
 body {
-  background: 808080;
+  background: grey;
   font-family: Helvetica;
 }
 

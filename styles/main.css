@@ -10,13 +10,18 @@ padding: 15px;
 margin: 0;
 }
 
+header h1 { 
+display:inline;
+color: white;
+}
+
 nav ul li {
 display:inline;
 color: white;
 padding: 15px;
 }
 	
-h1 h4 p a {
+nav ul li a h4 p  {
 	color:white;
 }
 

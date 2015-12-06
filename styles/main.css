@@ -1,17 +1,15 @@
 html {
 background-color: grey;
-color: FFFFFF;
+
 }
 
 
 body {
-  background: grey;
   font-family: Helvetica;
 }
 
 header {
 background: FFA500 ; 
-color: FFFFFF;
 padding: 15px;
 margin: 0;
 }

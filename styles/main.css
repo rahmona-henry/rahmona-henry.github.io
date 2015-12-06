@@ -10,11 +10,11 @@ padding: 15px;
 margin: 0;
 
 }
-nav h1 h3 p li a ul  {
+nav h1 h2 h3 p li a {
 	color:white;
 }
 
-nav ul li {
+nav ul {
 	display: inline;
 	color: white;
 	padding: 15px;
@@ -22,3 +22,4 @@ nav ul li {
 
 
 
+ 

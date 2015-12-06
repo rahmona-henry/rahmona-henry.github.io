@@ -4,7 +4,6 @@ body {
 }
 
 header { 
-background: 808080;
 color: F8F8FF;
 padding: 15px;
 margin: 0;
@@ -17,8 +16,7 @@ padding: 15px;
 
 nav ul li {
   display: inline;
-  background: 808080;
-
+  
 }
 nav ul li h1 h4 p {
 	color:FFFFFF;

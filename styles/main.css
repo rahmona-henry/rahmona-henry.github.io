@@ -1,5 +1,6 @@
 html {
 background-color: grey;
+color: FFFFFF;
 }
 
 body {
@@ -19,9 +20,9 @@ padding: 15px;
 
 nav ul li {
   display: inline;
+  color: FFFFFF;
 }
-
-nav ul li a h1 h4 p {
+ a h1 h4 p {
 	color:FFFFFF;
 }
 

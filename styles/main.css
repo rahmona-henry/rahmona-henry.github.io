@@ -1,17 +1,19 @@
 
 html {
 background-color: grey;
-color: FFFFFF;
+color: white;
 }
 
 body {
   font-family: Helvetica;
+  color: white;
 }
 
 header {
 background: orange; 
 padding: 15px;
 margin: 0;
+color: white;
 }
 
 nav ul {

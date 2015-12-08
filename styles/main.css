@@ -31,14 +31,18 @@ nav ul li {
 }
 
 .summary {
-  clear: both; 
+  clear: all; 
   margin: 20px 20px 20px 10px; 
-  width: 160px; 
-  float: left;
+  width: 100px; 
+  float: right;
+  top: 260px;
+  left: 330;
+
   }
 .summary p {
   font: italic 1.1em/2.2 georgia; 
   text-align: center;
+  float: right;
   }
 
 

@@ -5,7 +5,7 @@ color: white;
 }
 
 body {
- 
+
   font-family: Helvetica;
   color: white;
 }
@@ -27,8 +27,12 @@ nav ul li {
   display: inline;
   color: white;
 }
- a h1 h4 p {
+ a h1 p {
 	color:FFFFFF;
+}
+
+h4 {
+  color:orange;
 }
 
 /* Change the link color to white on hover */

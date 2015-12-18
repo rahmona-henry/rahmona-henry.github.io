@@ -7,11 +7,10 @@
  }
 
  nav ul li {
-   margin: 0;
-   paddin: 0;
+
    color: black;
    display: inline;
-   float: right;
+
  }
 
 a p {
@@ -28,8 +27,4 @@ h3 {
   color: black;
   }
 
-  .active {
-      background-color: grey;
-      color: black;
-  }
-
+  

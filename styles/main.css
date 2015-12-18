@@ -5,9 +5,13 @@
    font-family: Helvetica;
    color: white;
  }
- nav ul li {
+ nav ul li 
+   margin: 0;
+   paddin: 0;
+   overflow: hidden;
    display: inline;
    color: white;
+   float; left;
  }
 a h1 p {
   color:black;
@@ -19,4 +23,9 @@ h4 {
  /* Change the link color to black on hover */
   a:hover {
      background-color: black;
+
+  .active {
+      background-color: grey;
+      color:black;
+  }
 

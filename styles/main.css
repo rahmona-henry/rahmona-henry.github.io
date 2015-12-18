@@ -1,1 +1,22 @@
+}
+ 
+ body {
+
+   font-family: Helvetica;
+   color: white;
+ }
+ nav ul li {
+   display: inline;
+   color: white;
+ }
+a h1 p {
+  color:black;
+ }
+ 
+h4 {
+  color:black
+
+ /* Change the link color to black on hover */
+  a:hover {
+     background-color: black;
 

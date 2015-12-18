@@ -15,7 +15,8 @@ color: black;
 nav ul {
 display: inline-block
 float: right;
-padding: 50px;
+padding: 80px;
+margin: 0;
 
 }
 
@@ -23,6 +24,8 @@ nav li {
   display: inline-block;
   color: black;
   float: right;
+  padding: 20px;
+  margin: 0;
 }
 
 

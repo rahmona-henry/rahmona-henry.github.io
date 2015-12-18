@@ -17,6 +17,12 @@ display: inline;
 color: black;
 }
 
+nav ul {
+  display: inline;
+  float: right;
+  color: black;
+}
+
 
 a h1 h3 p hr {
 color: black;

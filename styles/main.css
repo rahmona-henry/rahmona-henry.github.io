@@ -11,14 +11,15 @@
    overflow: hidden;
    display: inline;
    color: white;
-   float; left;
+   float; right;
  }
 a h1 p {
   color:black;
  }
  
-h4 {
-  color:black
+h3 {
+  color:black;
+  font-size: 200%;
 
  /* Change the link color to black on hover */
   a:hover {

@@ -14,14 +14,18 @@
    float: right;
  }
 
-a h1 p {
+a p {
   color: black;
-  font-size: 250%;
  }
- 
-h3 {
+
+h1 {
+  font-size: 250%
   color: black;
+  }
+
+h3 {
   font-size: 200%;
+  color: black;
   }
 
   .active {

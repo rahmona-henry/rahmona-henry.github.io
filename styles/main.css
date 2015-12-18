@@ -12,11 +12,13 @@ background: white;
 padding: 15px;
 margin: 0;
 color: black;
+
 }
 
 nav ul {
 display:inline;
 padding: 15px;
+float: right;
 color: black;
 
 }
@@ -25,11 +27,8 @@ nav ul li {
 display: inline;
 color: black;
 }
-a h1 p hr {
+a h1 h3 p hr{
 color: black;
 }
 
-h4 {
-color: black;
-}
 

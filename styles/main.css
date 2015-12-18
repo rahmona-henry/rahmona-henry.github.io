@@ -29,10 +29,11 @@ nav li {
 }
 
 
-p.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 6em
+content {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
    
 }
 

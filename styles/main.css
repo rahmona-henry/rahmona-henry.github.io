@@ -15,7 +15,7 @@ color: black;
 nav ul {
 display: inline-block
 float: right;
-paddin: 60px;
+padding: 60px;
 margin: 0;
 
 }
@@ -24,10 +24,16 @@ nav li {
   display: inline-block;
   color: black;
   float: right;
-  paddin: 20px;
+  padding: 20px;
   margin: 0;
 }
 
+
+
+section {
+  
+  float: centre;
+}
 
 a h1 h3 p hr {
 color: black;

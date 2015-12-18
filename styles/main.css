@@ -44,7 +44,9 @@ color: black;
 }
 
 hr {
-  width:60%;
+  width:80%;
+  color: black;
+  height: 3px;
 }
 
 a:link {

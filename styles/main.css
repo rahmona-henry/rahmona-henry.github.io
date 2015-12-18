@@ -33,6 +33,14 @@ a h1 h3 p hr {
 color: black;
 }
 
+
+section {
+
+  padding: 50px;
+  margin: 0;
+
+}
+
 a:link {
 color:black;
 }

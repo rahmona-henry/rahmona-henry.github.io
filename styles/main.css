@@ -7,27 +7,19 @@
  }
 
  nav ul li {
-   margin: 0;
-   paddin: 0;
-   overflow: hidden;
+   color: black;
    display: inline;
-   color: white;
-   float; right;
+   float:right;
  }
 
 a h1 p {
-  color:black;
+  color: black;
  }
  
 h3 {
   color:black;
   font-size: 200%;
   }
-
- /* Change the link color to black on hover */
-  a:hover {
-     background-color: black;
-     }
 
   .active {
       background-color: grey;

@@ -33,14 +33,7 @@ nav li {
 .center {
     position:center;
     display:block;
-    height:100px;
-    width:100px;
-    left:50%;
-    top:50%;
-    margin-top:-50px;
-    margin-left:-50px;
-    background-color:white;
-  
+   
 }
 
 a h1 h3 p hr {

@@ -43,6 +43,9 @@ a h1 h3 p hr {
 color: black;
 }
 
+hr {
+  width:60%;
+}
 
 a:link {
 color:black;

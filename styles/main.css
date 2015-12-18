@@ -13,11 +13,11 @@ color: black;
 }
 
 nav ul {
-text-align: right;
 display: inline-block
 }
 
 nav li {
+  text-align: right;
   display: inline-block;
   color: black;
 }

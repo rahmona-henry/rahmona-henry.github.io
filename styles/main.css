@@ -14,11 +14,11 @@ color: black;
 
 nav ul {
 text-align: right;
-
+display: inline-block
 }
 
-li {
-  display: inline;
+nav li {
+  display: inline-block;
   color: black;
 }
 

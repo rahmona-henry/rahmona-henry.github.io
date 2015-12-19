@@ -46,7 +46,7 @@ hr {
 }
 
 
-.leftfoot {
+.leftfooter {
   display: inline-block;
   color: black;
   float: left;
@@ -54,7 +54,7 @@ hr {
   margin: 0;
 }
 
-.rightfoot {
+.rightfooter {
   display: inline-block;
   color: black;
   float: right;

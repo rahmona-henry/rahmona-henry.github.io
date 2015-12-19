@@ -43,14 +43,7 @@ a h1 h3 p hr {
 color: black;
 }
 
-hr {
-  width:80%;
-  height: 2px;
-  margin-left: auto;
-  margin-right: auto;
-  border: 0 none;
-  color: black;
-  background-color: black;
+
 }
 
 a:link {
@@ -69,6 +62,10 @@ a:hover {
 color:black;
 }
 
-
+.button button-primary{
+  color: black;
+  background-color: black;
+  float: right;
+  }
 
 

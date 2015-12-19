@@ -29,7 +29,8 @@ nav li {
 }
 
 .center {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 30%;
     padding: 30px;
     float: center;

@@ -44,7 +44,9 @@ nav li {
     float: center;
 }
  
-
+.content1 {
+    float: left;
+}
 
 
 hr {

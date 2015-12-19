@@ -62,10 +62,18 @@ a:hover {
 color:black;
 }
 
-.button {
-display: inline-block;
+.button ul {
+ display: inline-block;
   color: black;
   float: right;
   padding: 20px;
   margin: 0;
   }
+
+
+.button li {
+ display: inline-block;
+  color: black;
+  float: right;
+  padding: 20px;
+  margin: 0;

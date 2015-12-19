@@ -45,6 +45,25 @@ hr {
   background-color: black;
 }
 
+
+.leftfoot {
+  display: inline-block;
+  color: black;
+  float: left;
+  padding: 20px;
+  margin: 0;
+}
+
+.rightfoot {
+  display: inline-block;
+  color: black;
+  float: right;
+  padding: 20px;
+  margin: 0;
+}
+
+
+
 a h1 h3 p hr {
 color: black;
 }

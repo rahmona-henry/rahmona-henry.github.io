@@ -28,53 +28,19 @@ nav li {
   margin: 0;
 }
 
-
 .center {
     margin: auto;
     width: 30%;
     padding: 30px;
     float: center;
 }
-
-.button {
-  display: inline-block;
-  color: black;
-  float: right;
-  padding: 20px;
-  margin: 0;
-  }
-
-
-.leftfooter {
-    width: 100%;
-    overflow: hidden;
-    margin: 5px auto 10px auto;
-    text-align: center;
-    float: left;
-}
-
-.rightfooter {
-    max-width: 980px;
-    text-align: center;
-    margin: auto;
-    float: right;
-}
-
-
-.github {
-float: right;
-}
-
-.linkedin {
-float: right;
-}
-
-.twitter {
- float: right;
-  
-}
-
-
+ 
+hr {
+width:80%;
+height: 2px;
+margin-left: auto;
+margin-right: auto;
+}border: 0 none;
 
 
 a h1 h3 p hr {
@@ -98,9 +64,3 @@ color:black;
 }
 
   
-  hr {
-    width:80%;
-    height: 2px;
-    margin-left: auto;
-    margin-right: auto;
-    }

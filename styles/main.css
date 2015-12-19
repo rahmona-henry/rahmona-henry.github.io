@@ -36,8 +36,14 @@ nav li {
     float: center;
 }
 
-   
-}
+.button {
+  display: inline-block;
+  color: black;
+  float: right;
+  padding: 20px;
+  margin: 0;
+  }
+
 
 a h1 h3 p hr {
 color: black;
@@ -62,18 +68,3 @@ a:hover {
 color:black;
 }
 
-.button ul {
- display: inline-block;
-  color: black;
-  float: right;
-  padding: 20px;
-  margin: 0;
-  }
-
-
-.button li {
- display: inline-block;
-  color: black;
-  float: right;
-  padding: 20px;
-  margin: 0;

@@ -12,7 +12,7 @@ background: white;
 color: black;
 }
 
-.navleft ul {
+nav ul {
 display: inline-block
 float: right;
 padding: 60px;
@@ -20,7 +20,7 @@ margin: 0;
 
 }
 
-.navleft li {
+nav li {
   display: inline-block;
   color: black;
   float: right;

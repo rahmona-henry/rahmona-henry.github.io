@@ -57,30 +57,19 @@ nav li {
     max-width: 980px;
     text-align: center;
     margin: auto;
+    float: right;
 }
 
-h3 {
-
-font-family: 'Source Sans Pro', sans-serif;
-            text-transform:uppercase;
-            font-weight : 300;
-            font-size : 14px;
-            color : #000;
-
-}
 
 .github {
-text-align: left;
 float: right;
 }
 
 .linkedin {
-text-align: right
 float: right;
 }
 
 .twitter {
- text-align: right
  float: right;
   
 }

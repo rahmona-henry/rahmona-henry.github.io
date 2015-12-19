@@ -36,12 +36,14 @@ nav li {
 }
  
 hr {
-width:80%;
-height: 2px;
-margin-left: auto;
-margin-right: auto;
-}border: 0 none;
-
+  width:80%;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0 none;
+  color: black;
+  background-color: black;
+}
 
 a h1 h3 p hr {
 color: black;

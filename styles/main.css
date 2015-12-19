@@ -46,6 +46,9 @@ color: black;
 hr {
   width:80%;
   height: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0 none;
   color: black;
 }
 

@@ -28,6 +28,12 @@ nav li {
   margin: 0;
 }
 
+.me {
+  position: relative;
+  max-width: 20%;
+  margin: 3rem auto -12rem;
+}
+
 .center {
     margin-left: auto;
     margin-right: auto;

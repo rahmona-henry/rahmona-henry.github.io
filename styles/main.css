@@ -29,9 +29,10 @@ nav li {
 }
 
 .me {
-  position: relative;
   max-width: 50%;
   margin: 3rem auto -12rem;
+  display: inline-block;
+  float: left;
 }
 
 .center {

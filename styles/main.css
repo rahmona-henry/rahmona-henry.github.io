@@ -50,17 +50,18 @@ font-size: 2.5rem
 
 }
 
-.three {
 
-  text-decoration: none;
-}
-
-
-
-a h1 h3 p hr {
+h1 h3 p hr {
 color: black;
 }
 
+a:link{ 
+color:#FF8C00;
+}
+
+a:visited{
+color:#FF8C00;
+}
 
 a:active{
 color:#FF8C00;

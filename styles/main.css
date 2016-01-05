@@ -12,15 +12,13 @@ background: white;
 color: black;
 }
 
-nav ul {
-display: inline-block
-float: right;
-padding: 60px;
-margin: 0;
+ul {
+list-style-type:none;
+text-align: center;
 
 }
 
-nav li {
+.li {
   display: inline-block;
   color: black;
   float: right;
@@ -31,6 +29,7 @@ nav li {
 .me {
   max-width: 100%;
   display: inline-block;
+  margin: 0px;
 }
 
 .center {

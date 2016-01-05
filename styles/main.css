@@ -1,5 +1,5 @@
 html {
-background-color:#f0f0f0;
+background: linear-gradient(red,yellow);
 background-size: cover;
 
 color: black;
@@ -10,7 +10,6 @@ font-family: Helvetica;
 color: black;}
 
 header {
-background: white; 
 color: black;
 }
 

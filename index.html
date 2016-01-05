@@ -1,75 +1,149 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Basic Page Needs
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<meta charset="utf-8">
-<meta name="description" content="My Website">
-<meta name="author" content="Rahmona Henry">
-<title>Rahmona Henry</title>
+html {
+background-color; #f0f0f0;
+background-size: cover;
+color: black;
+}
 
-<!-- Mobile Specific Metas
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
+body {
+font-family: Helvetica;
+color: black;}
 
-<!-- FONT
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+header {
+color: black;
+}
 
-<!-- CSS
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
-<link rel="stylesheet" type= "text/css"  href="styles/main.css">
-</head>
+ul {
+list-style-type:none;
+
+}
+
+.menu li {
+  list-style-type:none;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.me {
+  max-width: 100%;
+  display: inline-block;
+  margin: 0px;
+}
+
+.introduction {
+text-align:center;
+max-width: 60%;
+margin-left: auto;
+margin-right: auto;
+color:black;
+font-size: 2.5rem
+}
+
+.display {
+  display: block;
+  max-width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
 
 
-<body>
+}
 
-<header class="navigation">
-<div class="container">
-<nav class="row menu">
-<div class="three columns">
-<img class="me" src="images/me.jpg">
-</div>
+hr {
+  width:80%;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0 none;
+  color: black;
+  background-color: black;
+}
 
-<ul>       
- <li class="three columns">
- <a href="http://rahmona-henry.github.io/contact.html">about</a>
- </li>
- <li class="three columns">
- <a href="http://rahmona-henry.github.io/blog/blog-template.html">blogs</a>
- </li>
- <li class="three columns">
- <a href="http://rahmona-henry.github.io/about.html">contact</a>
- </li> 
-</ul>
-</nav>
-</div>
-</header>
 
-<section class="main section">
-<div class="container">
-<div class="row">
-<div class="twelve columns">
-<p class= "introduction">Rahmona Henry
-<br>
-Student @ EDA</p>
-</div>
-</section>
+.leftfooter {
+  display: inline-block;
+  color: black;
+  float: left;
+  padding: 20px;
+  margin: 0;
+}
 
-<br>
+.rightfooter {
+  display: inline-block;
+  color: black;
+  float: right;
+  padding: 20px;
+  margin: 0;
+}
 
-<footer class="footer section">
-<div class ="container">
-<nav class="row">
-<div class="twelve columns">
-<a href="http://www.github.io"</a>
-<img class="display center" img src="images/github.jpg">
-</div>
-</section>
-</body>
-</html>
+
+
+a h1 h3 p hr {
+color: black;
+}
+
+a:link {
+color:#FF8C00;
+}
+
+a:active{
+color:#FF8C00;
+}
+
+a:visited {
+color:#FF8C00;
+}
+
+a:hover {
+color:#FF8C00;
+}
+
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+
+ .display {
+  display: block;
+  max-width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+ 
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
 
 
 

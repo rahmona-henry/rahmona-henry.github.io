@@ -36,7 +36,7 @@ text-align:center;
 max-width: 60%;
 margin-left: auto;
 margin-right: auto;
-color:#FF4500;
+color:#FF8C00;
 font-size: 2.5rem
 
 }
@@ -75,19 +75,19 @@ color: black;
 }
 
 a:link {
-color:black;
+color:#FF8C00;
 }
 
 a:active{
-color:black;
+color:#FF8C00;
 }
 
 a:visited {
-color:black;
+color:#FF8C00;
 }
 
 a:hover {
-color:orange;
+color:#FF8C00;
 }
 
 /* Mobile first queries */

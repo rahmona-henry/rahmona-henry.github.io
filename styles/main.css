@@ -18,9 +18,9 @@ text-align: center;
 
 }
 
-.li {
-  display: inline-block;
+.menu li {
   color: black;
+  text-align: center;
   float: right;
   padding: 20px;
   margin: 0;

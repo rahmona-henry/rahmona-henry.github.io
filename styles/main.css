@@ -6,7 +6,7 @@ color: black;
 
 body {
   color:black;
-  padding: 50px;
+
 }
 
 header {
@@ -30,7 +30,7 @@ list-style-type:none;
 .me {
   max-width: 100%;
   display: inline-block;
-  padding: 50px11111111111;
+  padding: 50px;
   margin: 0px;
 }
 

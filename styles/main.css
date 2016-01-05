@@ -5,15 +5,14 @@ color: black;
 }
 
 body {
+  color:black;
   padding: 50px;
 }
 
 header {
 }
 
-footer {
-  padding:50px;
-}
+
 
 ul {
 list-style-type:none;

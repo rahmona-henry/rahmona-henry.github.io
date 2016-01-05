@@ -1,19 +1,16 @@
 html {
-background-color: #f0f0f0;
+background-color; #f0f0f0;
 background-size: cover;
 color: black;
 }
 
 body {
-  color:black;
-
-}
+font-family: Helvetica;
+color: black;}
 
 header {
-  color:black;
+color: black;
 }
-
-
 
 ul {
 list-style-type:none;
@@ -40,8 +37,7 @@ max-width: 60%;
 margin-left: auto;
 margin-right: auto;
 color:black;
-font-size: 2.5rem;
-
+font-size: 2.5rem
 }
 
 .display {
@@ -51,22 +47,51 @@ font-size: 2.5rem;
   margin-right: auto;
   text-align: center
 
+
+}
+
+hr {
+  width:80%;
+  height: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0 none;
+  color: black;
+  background-color: black;
 }
 
 
-h1 h3 p hr {
+.leftfooter {
+  display: inline-block;
+  color: black;
+  float: left;
+  padding: 20px;
+  margin: 0;
+}
+
+.rightfooter {
+  display: inline-block;
+  color: black;
+  float: right;
+  padding: 20px;
+  margin: 0;
+}
+
+
+
+a h1 h3 p hr {
 color: black;
 }
 
-a:link{ 
-color:#FF8C00;
-}
-
-a:visited{
+a:link {
 color:#FF8C00;
 }
 
 a:active{
+color:#FF8C00;
+}
+
+a:visited {
 color:#FF8C00;
 }
 
@@ -93,7 +118,7 @@ color:#FF8C00;
 
   .display {
   display: block;
-  max-width: 10%;
+  max-width: 15%;
 }
 
 /* Larger than tablet */
@@ -101,7 +126,7 @@ color:#FF8C00;
 
   .display {
   display: block;
-  max-width: 10%;
+  max-width: 15%;
 }
 
 /* Larger than desktop */
@@ -109,7 +134,7 @@ color:#FF8C00;
 
   .display {
   display: block;
-  max-width: 10%;
+  max-width: 15%;
 }
 
 /* Larger than Desktop HD */
@@ -117,7 +142,5 @@ color:#FF8C00;
 
   .display {
   display: block;
-  max-width: 10%;
+  max-width: 15%;
 }
-
-  

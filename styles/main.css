@@ -42,13 +42,11 @@ font-size: 2.5rem
 
 .display {
   display: block;
-  max-width: 15%;
+  max-width: 25%;
   margin-left: auto;
   margin-right: auto;
   text-align: center
 
-
-  
 
 }
 
@@ -104,18 +102,47 @@ color:#FF8C00;
 /* Mobile first queries */
 
 /* Larger than mobile */
-@media (min-width: 400px) {}
+@media (min-width: 400px) {
+
+ .display {
+  display: block;
+  max-width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+ 
+}
 
 /* Larger than phablet */
-@media (min-width: 550px) {}
+@media (min-width: 550px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
 
 /* Larger than tablet */
-@media (min-width: 750px) {}
+@media (min-width: 750px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
 
 /* Larger than desktop */
-@media (min-width: 1000px) {}
+@media (min-width: 1000px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+  .display {
+  display: block;
+  max-width: 15%;
+}
 
   

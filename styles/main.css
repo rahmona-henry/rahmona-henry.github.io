@@ -14,14 +14,13 @@ color: black;
 
 ul {
 list-style-type:none;
-text-align: center;
 
 }
 
 .menu li {
+  list-style-type:none;
   color: black;
   text-align: center;
-  float: right;
   padding: 20px;
   margin: 0;
 }

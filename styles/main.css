@@ -1,7 +1,6 @@
 html {
-background-image: url("http://rahmona-henry.github.io/images/wall.jpg");
+background-image: url(../images/wall.jpg);
 background-size: cover;
-
 color: black;
 }
 

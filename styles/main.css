@@ -63,6 +63,10 @@ a h1 h3 p {
 color: black;
 }
 
+a:hover {
+color: black;
+}
+
 
 a:link {
 color: #FF8C00;
@@ -76,9 +80,7 @@ a:visited {
 color: #FF8C00;
 }
 
-a:hover {
-color: #FF8C00;
-}
+
 
 /* Mobile first queries */
 

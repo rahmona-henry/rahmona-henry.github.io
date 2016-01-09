@@ -47,19 +47,13 @@ font-size: 2.5rem
   margin-right: auto;
   text-align: center
 
-
 }
 
-
-hr {
-  width:80%;
-  height: 2px;
-  margin-left: auto;
-  margin-right: auto;
-  border: 0 none;
-  color: black;
-  background-color: black;
+.button button-primary {
+ background-color; #FF8C00;
+color: black; 
 }
+
 
 
 
@@ -68,19 +62,19 @@ color: black;
 }
 
 a:link {
-color:#FF8C00;
+color: #FF8C00;
 }
 
 a:active{
-color:#FF8C00;
+color: #FF8C00;
 }
 
 a:visited {
-color:#FF8C00;
+color: #FF8C00;
 }
 
 a:hover {
-color:#FF8C00;
+color: #FF8C00;
 }
 
 /* Mobile first queries */

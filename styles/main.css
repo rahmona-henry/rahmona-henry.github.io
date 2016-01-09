@@ -59,10 +59,13 @@ h6 h5 {
 }
 
 
-a h1 h3 p {
+h1 h3 p {
 color: black;
 }
 
+a{
+  color:#FF8C00;
+}
 a:active{
 color: #FF8C00;
 }

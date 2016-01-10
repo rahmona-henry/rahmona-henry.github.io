@@ -64,11 +64,11 @@ h1 h3 p {
 color: black;
 }
 
-a.link {
+a:link {
   color:#FF8C00;
 }
 
-a.visited {
+a:visited {
 color: #FF8C00;
 }
 

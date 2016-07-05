@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);
 
 body {
-  background-color: #ffa500;
+  background-color: #D06D35;
   font-family: 'Roboto Slab', serif;
   color: #fff;
 }
 
-.intro {
+#intro {
   position: absolute;
   margin-left: auto;
   margin-right: auto;

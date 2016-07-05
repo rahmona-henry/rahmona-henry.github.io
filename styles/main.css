@@ -6,7 +6,14 @@ body {
   color: #fff;
 }
 
-#intro #title {
+#intro {
+  position: absolute
+  left: 50%;
+  top: 50;
+  transform: translate(-50%,-50%)
+}
+
+#title {
   position: absolute
   left: 50%;
   top: 50;

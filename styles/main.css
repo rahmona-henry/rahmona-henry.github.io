@@ -20,7 +20,7 @@ body {
   transform: translate(-50%,-50%)
 }
 
-#links {
+.links {
   position:absolute;
   display:inline;
   float:left;

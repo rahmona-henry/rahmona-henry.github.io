@@ -20,11 +20,14 @@ body {
   transform: translate(-50%,-50%)
 }
 
-#links li {
-  list-style-type: none;
+#links {
   position: absolute;
   left: 50%;
   top: 70%;
   transform: translate(-50%,-50%)
 
+}
+
+li {
+  list-style-type: none;
 }

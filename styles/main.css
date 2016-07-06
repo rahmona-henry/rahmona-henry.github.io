@@ -22,7 +22,7 @@ body {
 
 #links h5{
   position: absolute;
-  display: inline;
+  display: block;
   float:left;
   left: 50%;
   top: 60%;

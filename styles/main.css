@@ -21,8 +21,8 @@ body {
 }
 
 #links {
-  position: absolute;
-  display:none;
+  position:absolute;
+  display:inline;
   float:left;
   left: 50%;
   top: 60%;

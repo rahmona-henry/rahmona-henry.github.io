@@ -20,12 +20,12 @@ body {
   transform: translate(-50%,-50%)
 }
 
-#links h5{
+#links {
   position: absolute;
-  display: block;
-  float:left;
+  display:inline;
+  /*float:left;
   left: 50%;
   top: 60%;
-  transform: translate(-50%,-50%)
+  transform: translate(-50%,-50%)*/
 
 }

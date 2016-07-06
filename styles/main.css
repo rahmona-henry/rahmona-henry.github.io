@@ -21,7 +21,7 @@ body {
 }
 
 #links h5{
-  /*position: absolute;*/
+  position: absolute;
   display: inline-block;
   float:left;
   /*left: 50%;*/

@@ -27,12 +27,16 @@ ul {
 }
 
 li {
-  float: left;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%,-50%)
+
 }
 
 li a {
   display: block;
   padding: 8px;
-  
+  x
 
 }

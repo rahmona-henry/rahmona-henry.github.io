@@ -20,6 +20,15 @@ body {
   transform: translate(-50%,-50%)
 }
 
+
+#links {
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%,-50%)
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -27,7 +36,8 @@ ul {
 }
 
 li {
-  float: center;
+  float: left;
+  padding-left: 50px;
 }
 
 li a {

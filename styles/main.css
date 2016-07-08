@@ -54,3 +54,7 @@ li a {
 a:visited {
     color: #fff;
 }
+
+.img-circle {
+    border-radius: 50%;
+}

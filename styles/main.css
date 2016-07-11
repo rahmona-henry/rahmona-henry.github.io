@@ -23,31 +23,12 @@ body {
 }
 
 
-.menu {
+#links {
   font-family: 'Roboto Slab', serif;
   position: absolute;
   left: 50%;
   top: 60%;
   transform: translate(-50%,-50%)
-}
-
-.menu .arrow {
-    font-size:11px;
-    line-height:0%;
-}
-
-
-.sub-menu {
-    width:160%;
-    padding:5px 0px;
-    position:absolute;
-    top:100%;
-    left:0px;
-    z-index:-1;
-    opacity:0;
-    transition:opacity linear 0.15s;
-    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
-    background:#2e2728;
 }
 
 #avatar {
@@ -57,17 +38,16 @@ body {
   transform: translate(-50%,-50%)
 }
 
-/*ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  cursor: pointer;
 }
 
 li {
   float: left;
-  /*padding-left: 50px;
+  /*padding-left: 50px;*/
   font-size: 25px;
 }
 
@@ -75,7 +55,7 @@ li a {
   display: block;
   padding: 8px;
 
-}*/
+}
 
 a:visited {
     color: #fff;
@@ -85,9 +65,4 @@ a:visited {
     border-radius: 50%;
     width: 250px;
 	  height: 250px;
-}
-
-.clearfix:after {
-  display:block;
-  clear:both;
 }

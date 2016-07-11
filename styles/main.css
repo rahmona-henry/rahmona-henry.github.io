@@ -87,3 +87,12 @@ a:visited {
   text-decoration: none;
   display:block;
 }
+
+.dropli {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}

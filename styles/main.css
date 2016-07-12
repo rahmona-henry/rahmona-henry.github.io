@@ -24,6 +24,7 @@ body {
 
 #links{
   font-family: 'Roboto Slab', serif;
+  position:absolute;
   display: inline-block;
   vertical-align: middle;
   margin: 20px 5px;

@@ -24,7 +24,7 @@ body {
 
 #github {
   font-family: 'Roboto Slab', serif;
-  /*position: absolute;*/
+  position: absolute;
   display: inline-block;
   vertical-align: middle;
   margin: 20px 5px;
@@ -34,30 +34,6 @@ body {
   transform: translate(-50%,-50%)*/
 }
 
-
-#linkedin {
-  font-family: 'Roboto Slab', serif;
-  /*position: absolute;*/
-  display: inline-block;
-  vertical-align: middle;
-  margin: 20px 5px;
-  width: 52px;
-  left: 50%;
-  top: 60%;
-  transform: translate(-50%,-50%)
-}
-
-#email {
-  font-family: 'Roboto Slab', serif;
-  /*position: absolute;*/
-  display: inline-block;
-  vertical-align: middle;
-  margin: 20px 5px;
-    width: 52px;
-  left: 50%;
-  top: 60%;
-  transform: translate(-50%,-50%)
-}
 
 #avatar {
   position: absolute;

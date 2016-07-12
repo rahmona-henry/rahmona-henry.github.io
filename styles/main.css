@@ -1,14 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);
-
+/*@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);*/
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans:600);
 
 body {
   background-color: #fff;
-  font-family: 'Roboto Slab';
+  font-family: 'Josefin Sans';
   color: #D06D35;
 }
 
 #intro {
-  font-family: 'Roboto Slab';
+  font-family: 'Josefin Sans';
   position: absolute;
   left: 50%;
   top: 50%;
@@ -16,7 +16,7 @@ body {
 }
 
 #name {
-  font-family: 'Roboto Slab';
+  font-family: 'Josefin Sans';
   position: absolute;
   left: 50%;
   top: 55%;
@@ -24,7 +24,7 @@ body {
 }
 
 #links{
-  font-family: 'Roboto Slab';
+  font-family: 'Josefin Sans';
   display: inline-block;
   position:absolute;
   /*vertical-align: middle;*/

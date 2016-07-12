@@ -34,13 +34,21 @@ body {
   transform: translate(-50%,-50%)
 }
 
-
 #avatar {
   position: absolute;
   left: 50%;
   top: 35%;
   transform: translate(-50%,-50%)
 }
+
+#frame {
+  background-color:#D06D35; 
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  transform: translate(-50%,-50%)
+}
+
 
 ul {
   overflow: auto;

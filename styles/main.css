@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);
 
 body {
-  background-color: #D06D35;
+  background-color: #fff;
   font-family: 'Roboto Slab', serif;
-  color: #fff;
+  color: #D06D35;
 }
 
 #intro {
@@ -26,7 +26,7 @@ body {
   font-family: 'Roboto Slab', serif;
   display: inline-block;
   position:absolute;
-  vertical-align: middle;
+  /*vertical-align: middle;*/
   margin: 20px 5px;
   /*width: 52px;*/
   left: 50%;

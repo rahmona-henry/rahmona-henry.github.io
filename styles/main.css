@@ -42,7 +42,10 @@ body {
 }
 
 #frame {
-  background-color:#D06D35; 
+  background-color:#D06D35;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
   position: absolute;
   left: 50%;
   top: 35%;

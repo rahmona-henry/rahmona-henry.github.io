@@ -22,8 +22,16 @@ body {
   transform: translate(-50%,-50%)
 }
 
+#github {
+  font-family: 'Roboto Slab', serif;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%,-50%)
+}
 
-#links {
+
+#linkedin {
   font-family: 'Roboto Slab', serif;
   position: absolute;
   left: 50%;

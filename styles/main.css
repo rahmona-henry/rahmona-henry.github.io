@@ -39,6 +39,14 @@ body {
   transform: translate(-50%,-50%)
 }
 
+#email {
+  font-family: 'Roboto Slab', serif;
+  position: absolute;
+  left: 53%;
+  top: 60%;
+  transform: translate(-50%,-50%)
+}
+
 #avatar {
   position: absolute;
   left: 50%;

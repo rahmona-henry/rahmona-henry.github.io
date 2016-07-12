@@ -41,17 +41,6 @@ body {
   transform: translate(-50%,-50%)
 }
 
-#frame {
-  background-color:#D06D35;
-  border-radius: 50%;
-  width: 350px;
-  height: 350px;
-  position: absolute;
-  left: 50%;
-  top: 35%;
-  transform: translate(-50%,-50%)
-}
-
 
 ul {
   overflow: auto;
@@ -78,4 +67,5 @@ a:visited {
     border-radius: 50%;
     width: 250px;
 	  height: 250px;
+    border-color: #D06D35;
 }

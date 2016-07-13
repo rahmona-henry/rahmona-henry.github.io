@@ -36,10 +36,8 @@ body {
   display: inline-block;
   position:relative;
   margin: 20px 5px;
-  /*width: 270px;*/
+  width: 270px;
 }
-
-
 
 ul {
   overflow: auto;
@@ -51,8 +49,8 @@ ul li {
 }
 
 ul li a i {
-	width: 60px;
-	height: 40px;
+	/*width: 60px;
+	height: 40px;*/
 	text-align: center;
 	margin-right: 10px;
 	padding-top: 15%;

@@ -28,13 +28,10 @@ body {
 
 .links{
   display: inline-block;
-  margin: 20px 5px;
-  width: 270px;
+  /*margin: 20px 5px;
+  width: 270px;*/
 }
 
-/*ul {
-  overflow: auto;
-}*/
 
 ul li {
   list-style-type: none;

@@ -22,13 +22,12 @@ body {
 .intro {
   font-family: 'Josefin Sans';
   position: relative;
+
   }
 
 .name {
   font-family: 'Josefin Sans';
   position: relative;
-  /*left: 50%;
-  top: 55%;*/
 
 }
 
@@ -36,11 +35,8 @@ body {
   font-family: 'Josefin Sans';
   display: inline-block;
   position:relative;
-  vertical-align: middle;
   margin: 20px 5px;
   width: 270px;
-  /*left: 50%;
-  top: 60%;*/
 }
 
 

@@ -28,7 +28,7 @@ body {
 
 .links{
   display: inline-block;
-  /*margin: 20px 5px;*/
+  margin: auto;
   width: 270px;
 }
 

@@ -7,7 +7,7 @@ body {
   color: #D06D35;
 }
 
-.avatar {
+.container {
   position:relative;
   left: 50%;
   top: 35%;
@@ -21,7 +21,7 @@ body {
     border: solid 3px #D06D35;
 }
 
-.container {
+.intro {
   font-family: 'Josefin Sans';
   position: relative;
   left: 50%;

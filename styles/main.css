@@ -32,9 +32,9 @@ body {
   width: 270px;
 }
 
-ul {
+/*ul {
   overflow: auto;
-}
+}*/
 
 ul li {
   list-style-type: none;

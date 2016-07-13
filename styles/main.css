@@ -21,20 +21,20 @@ body {
 
 .intro {
   font-family: 'Josefin Sans';
-  position: relative;
+  /*position: relative;*/
 
   }
 
 .name {
   font-family: 'Josefin Sans';
-  position: relative;
+  /*position: relative;*/
 
 }
 
 .links{
   font-family: 'Josefin Sans';
   display: inline-block;
-  position:relative;
+  /*position:relative;*/
   margin: 20px 5px;
   width: 270px;
 }

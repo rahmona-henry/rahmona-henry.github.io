@@ -27,15 +27,15 @@ body {
   top: 50%;*/
   }
 
-/*.name {
+.name {
   font-family: 'Josefin Sans';
-  position: absolute;
-  left: 50%;
+  position: relative;
+  /*left: 50%;
   top: 55%;
-  transform: translate(-50%,-50%)
+  */
 }
 
-.links{
+/*.links{
   font-family: 'Josefin Sans';
   display: inline-block;
   position:absolute;

@@ -8,19 +8,19 @@ body {
 }
 
 .avatar {
-  position: absolute;*/
+  position: absolute;
   left: 50%;
   top: 35%;
   transform: translate(-50%,-50%)
 }
 
-.intro {
+/*.intro {*/
   /*font-family: 'Josefin Sans';
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%)*/
-}
+/*}*/
 /*
 .name {
   font-family: 'Josefin Sans';

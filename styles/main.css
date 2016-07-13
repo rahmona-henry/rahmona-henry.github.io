@@ -40,8 +40,8 @@ body {
   display: inline-block;
   position:relative;
   /*vertical-align: middle;*/
-  /*margin: 20px 5px;*/
-  /*width: 52px;*/
+  margin: 20px 5px;
+  width: 52px;
   left: 50%;
   top: 60%;
 }

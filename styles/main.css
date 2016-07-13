@@ -9,9 +9,16 @@ body {
 
 .avatar {
   position:relative;
-  /*left: 50%;
-  top: 35%;*/
+  left: 50%;
+  top: 35%;
   transform: translate(-50%,-50%)
+}
+
+.img-circle{
+    border-radius: 50%;
+    width: 250px;
+	  height: 250px;
+    border: solid 3px #D06D35;
 }
 
 .intro {
@@ -19,7 +26,7 @@ body {
   position: relative;
   left: 50%;
   top: 50%;
-    transform: translate(-50%,-50%)
+  transform: translate(-50%,-50%)
   }
 
 /*.name {
@@ -42,12 +49,7 @@ body {
   transform: translate(-50%,-50%)
 }*/
 
-.img-circle{
-    border-radius: 50%;
-    width: 250px;
-	  height: 250px;
-    border: solid 3px #D06D35;
-}
+
 
 /*ul {
   overflow: auto;

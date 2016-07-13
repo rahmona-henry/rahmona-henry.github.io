@@ -7,11 +7,10 @@ body {
   color: #D06D35;
 }
 
-.container {
+.avatar {
   position:relative;
   left: 50%;
   top: 35%;
-  transform: translate(-50%,-50%)
 }
 
 .img-circle{
@@ -26,7 +25,6 @@ body {
   position: relative;
   left: 50%;
   top: 50%;
-  transform: translate(-50%,-50%)
   }
 
 /*.name {

@@ -21,7 +21,7 @@ body {
     border: solid 3px #D06D35;
 }
 
-.intro {
+.container {
   font-family: 'Josefin Sans';
   position: relative;
   left: 50%;

@@ -21,7 +21,7 @@ body {
   top: 50%;
   transform: translate(-50%,-50%)
 }
-
+/*
 .name {
   font-family: 'Josefin Sans';
   position: absolute;
@@ -35,37 +35,37 @@ body {
   display: inline-block;
   position:absolute;
   /*vertical-align: middle;*/
-  margin: 20px 5px;
+  /*margin: 20px 5px;*/
   /*width: 52px;*/
-  left: 50%;
+  /*left: 50%;
   top: 60%;
   transform: translate(-50%,-50%)
-}
+}*/
 
-.img-circle {
+/*.img-circle {
     border-radius: 50%;
     width: 250px;
 	  height: 250px;
-    border: solid 3px #D06D35;
-}
+    border: solid 3px #D06D35;*/
+/*}
 
 ul {
   overflow: auto;
-}
+}*/
 
-ul li {
+/*ul li {
   list-style-type: none;
   float: left;
-}
+}*/
 
-ul li a i {
+/*ul li a i {
 	width: 40px;
 	height: 40px;
 	text-align: center;
 	margin-right: 10px;
 	padding-top: 15%;
-}
+}*/
 
-a:visited {
+/*a:visited {
     color: #fff;
-}
+}*/

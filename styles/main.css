@@ -8,7 +8,6 @@ body {
 }
 
 .avatar {
-  /*position:relative;*/
 
 }
 
@@ -21,20 +20,17 @@ body {
 
 .intro {
   font-family: 'Josefin Sans';
-  /*position: relative;*/
 
   }
 
 .name {
   font-family: 'Josefin Sans';
-  /*position: relative;*/
 
 }
 
 .links{
   font-family: 'Josefin Sans';
   display: inline-block;
-  /*position:relative;*/
   margin: 20px 5px;
   width: 270px;
 }

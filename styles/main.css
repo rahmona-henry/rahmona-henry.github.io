@@ -48,23 +48,23 @@ body {
 
 
 
-/*ul {
+ul {
   overflow: auto;
-}*/
+}
 
-/*ul li {
+ul li {
   list-style-type: none;
   float: left;
-}*/
+}
 
-/*ul li a i {
+ul li a i {
 	width: 40px;
 	height: 40px;
 	text-align: center;
 	margin-right: 10px;
 	padding-top: 15%;
-}*/
+}
 
-/*a:visited {
+a:visited {
     color: #fff;
-}*/
+}

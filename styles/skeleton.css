@@ -401,6 +401,9 @@ on small devices, paste the mobile query code up in the buttons section and styl
 there.
 */
 
+/* Smartphones start somewhere around here */
+@media (min-width: 300px) {
+}
 
 /* Larger than mobile */
 @media (min-width: 400px) {}
@@ -417,5 +420,5 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
-
-  
+/* Widescreens */
+@media (min-width: 1500px) {}

@@ -16,7 +16,7 @@ body {
 
 .container {
     text-align: center;
-    position: fixed;
+    position: absolute;
   	top: 50%;
   	transform: translateY(-50%);
   	width: 100%;

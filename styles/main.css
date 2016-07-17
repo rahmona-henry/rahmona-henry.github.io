@@ -26,11 +26,12 @@ body {
 }
 
 .links{
+  display: inline-block;
   width: 200px;
 }
 
 
-ul li {  display: inline-block;
+ul li {
   list-style-type: none;
   float: left;
 }

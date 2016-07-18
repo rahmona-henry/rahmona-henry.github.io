@@ -23,7 +23,7 @@ body {
     width: 250px;
 	  height: 250px;
     border: solid 3px #D06D35;
-    overflow-y: hidden;
+    overflow-y: auto;
 }
 
 .links{

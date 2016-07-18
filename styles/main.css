@@ -6,7 +6,6 @@ html body {
   font-family: 'Josefin Sans';
   color: #D06D35;
   width:100%;
-  overflow-y: hidden;
 
 }
 
@@ -17,10 +16,10 @@ html body {
   	transform: translateY(-50%);
   	width: 100%;
     margin: 0 auto;
-    overflow: auto
 }
 
 .img-circle{
+    display:block;
     border-radius: 50%;
     width: 250px;
 	  height: 250px;

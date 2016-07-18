@@ -13,7 +13,7 @@ body {
     position: fixed;
   	top: 50%;
   	transform: translateY(-50%);
-  	width: 100%;
+  	width: auto;;
     margin: 0 auto;
     overflow: auto
 }

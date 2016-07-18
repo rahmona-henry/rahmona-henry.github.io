@@ -5,6 +5,7 @@ body {
   background-color: #fff;
   font-family: 'Josefin Sans';
   color: #D06D35;
+  overflow-x: hidden;
 }
 
 .container {

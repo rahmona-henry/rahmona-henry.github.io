@@ -1,10 +1,12 @@
 /*@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);*/
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans:600);
 
-body {
+html body {
   background-color: #fff;
   font-family: 'Josefin Sans';
   color: #D06D35;
+  width:100%;
+  overflow-x: hidden;
 
 }
 

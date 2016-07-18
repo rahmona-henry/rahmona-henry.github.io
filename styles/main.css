@@ -15,7 +15,7 @@ body {
   	transform: translateY(-50%);
   	width: 100%;
     margin: 0 auto;
-    overflow: scroll;
+    overflow: auto
 }
 
 .img-circle{
@@ -23,6 +23,7 @@ body {
     width: 250px;
 	  height: 250px;
     border: solid 3px #D06D35;
+    overflow: auto;
 }
 
 .links{

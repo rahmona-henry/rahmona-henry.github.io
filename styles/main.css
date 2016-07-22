@@ -32,9 +32,8 @@ html body {
 }
 
 .projects{
-  position:fixed;
+  position:absolute;
   left:50%
-  
 }
 
 

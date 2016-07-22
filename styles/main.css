@@ -34,6 +34,7 @@ html body {
 .projects {
   font-family: 'Josefin Sans';
   color: #D06D35;
+  list-style-type: none;
 }
 
 .links ul li {

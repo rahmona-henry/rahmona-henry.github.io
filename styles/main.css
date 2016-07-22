@@ -31,6 +31,10 @@ html body {
   width: 200px;
 }
 
+.projects {
+  font-family: 'Josefin Sans';
+  color: #D06D35;
+}
 
 .links ul li {
   list-style-type: none;

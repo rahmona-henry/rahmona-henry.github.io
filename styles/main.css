@@ -29,6 +29,7 @@ html body {
 .links{
   display: inline-block;
   width: 300px;
+  margin:auto;
 }
 
 

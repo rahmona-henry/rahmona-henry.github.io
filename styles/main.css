@@ -37,6 +37,13 @@ html body {
   list-style-type: none;
 }
 
+
+.projects {
+  font-family: 'Josefin Sans';
+  color: #D06D35;
+  list-style-type: none;
+}
+
 .links ul li {
   list-style-type: none;
   float: left;

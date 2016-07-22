@@ -52,6 +52,12 @@ html body {
   position:absolute;
 
 }
+
+.dropmenu a {
+  display:block;
+  position:absolute;
+
+}
 .projects ul li  {
   list-style-type: none;
 }

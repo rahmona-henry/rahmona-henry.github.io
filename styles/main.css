@@ -43,17 +43,14 @@ html body {
 	height: 40px;
 }
 
-.projects {
-  top:20%;
-}
 
-.dropmenu {
+.projects {
   display:none;
   position:absolute;
 
 }
 
-.dropmenu a {
+.dropmenucontent {
   display:block;
   position:absolute;
 

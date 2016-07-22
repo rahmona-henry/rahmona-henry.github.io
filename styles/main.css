@@ -46,6 +46,12 @@ html body {
 .projects {
   top:20%;
 }
+
+.dropmenu {
+  display:none;
+  position:absolute;
+
+}
 .projects ul li  {
   list-style-type: none;
 }

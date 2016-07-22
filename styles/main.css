@@ -43,6 +43,10 @@ html body {
 	height: 40px;
 }
 
+.projects {
+  list-style-type: none;
+}
+
 a:visited {
     color: #D06D35;
 }

@@ -31,7 +31,9 @@ html body {
   width: 200px;
 }
 
-
+.projects{
+  margin: 0 auto;
+}
 ul li {
   list-style-type: none;
   float: left;

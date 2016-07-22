@@ -46,3 +46,7 @@ html body {
 a:visited {
     color: #D06D35;
 }
+
+a:link{
+  text-decoration:none;
+}

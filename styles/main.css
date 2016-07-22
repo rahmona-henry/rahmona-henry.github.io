@@ -32,14 +32,6 @@ html body {
 }
 
 
-#primary_nav_wrap ul
-{
-	list-style:none;
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0
-}
 
 .links ul li {
   list-style-type: none;

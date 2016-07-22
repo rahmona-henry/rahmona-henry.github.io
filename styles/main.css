@@ -42,3 +42,7 @@ html body {
 	width: 60px;
 	height: 40px;
 }
+
+a:visited {
+    color: #D06D35;
+}

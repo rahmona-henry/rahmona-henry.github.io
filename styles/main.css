@@ -32,9 +32,12 @@ html body {
 }
 
 .projects{
-  margin: 0 auto;
-  text-align:center;
+  position:fixed;
+  left:50%
+  
 }
+
+
 ul li {
   list-style-type: none;
   float: left;

@@ -43,6 +43,9 @@ html body {
 	height: 40px;
 }
 
+.projects {
+  top:20%;
+}
 .projects ul li  {
   list-style-type: none;
 }

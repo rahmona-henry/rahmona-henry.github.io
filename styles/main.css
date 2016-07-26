@@ -45,19 +45,24 @@ html body {
 
 
 .projects {
+  display:inline-block;
+  position:relative;
+}
+
+.projects a {
+  cursor:pointer;
+}
+
+.projects ul li  {
+  list-style-type: none;
+}
+
+.dropmenucontent {
   display:none;
   position:absolute;
 
 }
 
-.dropmenucontent {
-  display:block;
-  position:absolute;
-
-}
-.projects ul li  {
-  list-style-type: none;
-}
 
 a:visited {
     color: #D06D35;

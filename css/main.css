@@ -20,6 +20,7 @@ html body {
 
 .img-circle {
     border-radius: 50%;
+    padding-top: 200px;
     width: 250px;
 	  height: 250px;
     border: solid 3px #D06D35;

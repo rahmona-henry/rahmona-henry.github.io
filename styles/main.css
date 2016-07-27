@@ -59,9 +59,8 @@ html body {
   position:absolute;
   /*background-color: #ffffff;*/
   color:#D06D35;
-  /*font-size: 20px;*/
+  font-size: 250%;
   min-width:160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,.2);
 
 }
 

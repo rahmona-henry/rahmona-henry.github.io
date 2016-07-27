@@ -79,6 +79,7 @@ html body {
 .projects:hover .dropdown-content {
   position:absolute;
     display: block;
+    margin: 0 auto;
 }
 
 .projects:hover .dropbtn {

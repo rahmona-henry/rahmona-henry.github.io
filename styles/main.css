@@ -57,10 +57,11 @@ html body {
 .dropdown-content {
   display:none;
   position:absolute;
-  background-color: #ffffff;
-  color:#D06D35;
-  min-width:360px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,.2);
+  background-color: #D06D35;
+  color:#ffffff;
+  font-size: 20px;
+  min-width:160px;
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,.2);*/
 
 }
 

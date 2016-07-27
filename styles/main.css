@@ -78,7 +78,7 @@ html body {
   }
 
 .projects:hover .dropdown-content {
-    /*display: block;*/
+    display: block;
 }
 
 .projects:hover .dropbtn {

@@ -61,7 +61,7 @@ html body {
   color:#ffffff;
   /*font-size: 20px;
   min-width:160px;
-  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,.2);*/*/
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,.2);*/
 
 }
 
@@ -83,8 +83,7 @@ html body {
 }
 
 .projects:hover .dropbtn {
-    background-color: #D06D35;
-    color: #ffffff;
+    color: #D06D35;
 }
 
 a:visited {

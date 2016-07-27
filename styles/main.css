@@ -82,6 +82,7 @@ html body {
 
 .projects:hover .dropbtn {
     background-color: #D06D35;
+    color: #ffffff;
 }
 
 a:visited {

@@ -72,7 +72,7 @@ html body {
 }
 
 .dropdown-content a:hover {
-  background-color:#D06D35;
+  /*background-color:#D06D35;*/
   color:#D06D35;
   }
 
@@ -81,7 +81,8 @@ html body {
 }
 
 .projects:hover .dropbtn {
-    /*background-color: #D06D35;*/
+    background-color: #D06D35;
+    border-radius: 50%;
     color: #D06D35;
 }
 

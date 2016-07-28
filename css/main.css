@@ -43,51 +43,7 @@ html body {
 	height: 40px;
 }
 
-
-.projects {
-  position:relative;
-  display:inline-block;
-}
-
-.dropbtn {
-  cursor:pointer;
-}
-
-/*Dropdown-content*/
-.dropdown-content {
-  display:none;
-  position:absolute;
-  background-color: #ffffff;
-  color:#D06D35;
-  font-size: 150%;
-
-
-}
-
-/*Links inside the dropdown*/
-.dropdown-content a  {
-  color:#D06D35;
-  padding: 12px 16px;
-  display:block;
-}
-
-.dropdown-content a:hover {
-  /*background-color:#D06D35;*/
-  color:#D06D35;
-  }
-
-.projects:hover .dropdown-content {
-  position:absolute;
-    display: block;
-    margin: 0 auto;
-}
-
-.projects:hover .dropbtn {
-    background-color: #D06D35;
-    color: #ffffff;
-}
-
-.button {
+.button a {
   background-color: #D06D35;
   color: #ffffff;
 }

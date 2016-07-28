@@ -87,6 +87,11 @@ html body {
     color: #ffffff;
 }
 
+.button {
+  background-color: #D06D35;
+  color: #ffffff;
+}
+
 a:visited {
     color: #D06D35;
 }

@@ -9,6 +9,11 @@ html body {
 
 }
 
+a:link {
+  text-decoration:none;
+  color: #D06D35;
+}
+
 .container {
     text-align: center;
     position: fixed;
@@ -44,10 +49,5 @@ html body {
 }
 
 .button{
-  color: #D06D35;
-}
-
-a:link {
-  text-decoration:none;
   color: #D06D35;
 }

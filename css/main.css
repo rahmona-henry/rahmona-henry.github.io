@@ -44,12 +44,9 @@ html body {
 }
 
 .button{
-  background-color: #D06D35;
+  color: #D06D35;
 }
 
-.button a {
-color: #ffffff;
-}
 
 a:visited {
     color: #D06D35;

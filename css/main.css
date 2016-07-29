@@ -14,6 +14,7 @@ a:link {
   color: #D06D35;
 }
 
+
 .container {
     text-align: center;
     position: fixed;
@@ -21,6 +22,10 @@ a:link {
   	transform: translateY(-50%);
   	width: 100%;
     margin: 0 auto;
+}
+
+.container a {
+       color:#D06D35;
 }
 
 .img-circle {
